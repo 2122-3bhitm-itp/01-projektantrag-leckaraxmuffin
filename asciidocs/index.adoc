@@ -1,5 +1,4 @@
 = My Project
-<<<<<<< HEAD
 Lydia Reiter
 1.0.0, 2021-10-15: Some notes
 =======
@@ -19,11 +18,9 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-<<<<<<< HEAD
 == Thema
-=======
+
 == Header 1
->>>>>>> 79c34bdc006d5c34bf2d3c5a3d6cbf9d099a4bdb
 
 
 === Header 2
