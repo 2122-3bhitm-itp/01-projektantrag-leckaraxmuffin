@@ -1,10 +1,6 @@
 = My Project
 Lydia Reiter
-1.0.0, 2021-10-15: Some notes
-=======
-firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
->>>>>>> 79c34bdc006d5c34bf2d3c5a3d6cbf9d099a4bdb
+1.0.0, 2021-10-16: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
