@@ -58,7 +58,7 @@ I will document everything I will do on this project so everyone can understand 
 own version of this game. The documentation is on my https://github.com/2122-3bhitm-itp/01-projektantrag-reiterlydia[Github].
 
 === How can you contact me
-mailto:lydia.maslowski@gmail.com[Mail me private]
+mailto:lydia.maslowski@gmail.com[Mail me (private)]
 
 mailto:it190228@students.htl-leonding.ac.at[Mail me (school)]
 
