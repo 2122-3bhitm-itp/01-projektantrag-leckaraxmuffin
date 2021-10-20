@@ -1,3 +1,4 @@
+#!/bin/bash
 echo start building html
 set -e
 # copy to gh-pages

@@ -1,3 +1,4 @@
+#!/bin/bash
 set -e
 BUILD_DIR="gh-pages"
 echo "BUILD_DIR->${BUILD_DIR}"
