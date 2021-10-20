@@ -57,6 +57,4 @@ This Project will start february 2022 and will and will be developed until july 
 I will document everything I will do on this project so everyone can understand what I am doing and can develop their
 own version of this game. The documentation is on my https://github.com/2122-3bhitm-itp/01-projektantrag-reiterlydia[Github].
 
-
-
 ~2021-10-16~ ~Reiter~ ~Lydia~
