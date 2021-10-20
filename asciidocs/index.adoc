@@ -17,7 +17,7 @@ ifdef::backend-html5[]
 == What
 === What is this project about
 
-My idea is the game rush hour. Rush hour is a game where you have to get your car out of a full parket place.
+My idea is the game rush hour. Rush hour is a game where you have to get your car out of a full parking lot.
 
 
 
