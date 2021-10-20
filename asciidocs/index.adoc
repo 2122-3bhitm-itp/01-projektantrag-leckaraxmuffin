@@ -20,11 +20,13 @@ ifdef::backend-html5[]
 My idea is the game rush hour. Rush hour is a game where you have to get your car out of a full parket place.
 
 /
+
 == Why
 === Why is it a good idea
 A lot of children nowadays are playing with phones. This game should help them to learn to search solutions for their problems.
 
 /
+
 == How
 === What technologies will i use
 Used Software:
@@ -38,16 +40,19 @@ Used programming language:
 * https://openjfx.io/[JavaFX]
 
 /
+
 == Who
 === Who will help
 On this project I will work alone. In school we will learn the using technologies so I would say that is also a way of help.
 
 /
+
 == When
 === When will it start
 This Project will start february 2022 and will and will be developed until july 2022.
 
 /
+
 == Information
 I will document everything I will do on this project so everyone can understand what I am doing and can develop their own version of this game.
 
