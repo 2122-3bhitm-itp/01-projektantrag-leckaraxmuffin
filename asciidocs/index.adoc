@@ -15,18 +15,28 @@ ifdef::backend-html5[]
 //toc::[]
 
 == What
+=== What is this project about
 
+///////////////////////////////////
 == Why
+=== Why is it a good idea
 
-== How 
+///////////////////////////////////
+== How
+=== What technologies will i use
 
+///////////////////////////////////
 == Who
+=== Who will help
 
+///////////////////////////////////
 == When
+=== When will it start
 
+///////////////////////////////////
 == Information
 
-
+//////////////////////////////////
 
 2021-10-16
 Reiter Lydia
