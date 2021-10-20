@@ -15,6 +15,3 @@ git push --force origin main:gh-pages
 echo gh-pages pushed to github ...
 cd $OLD
 rm -rf $BUILD_DIR
-
-
-# 	
